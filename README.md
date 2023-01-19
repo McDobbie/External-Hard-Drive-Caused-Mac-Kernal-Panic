@@ -1,5 +1,5 @@
 # External-Hard-Drive-Caused-Mac-Kernal-Panic-and-Restarting
-This repository helps solve the Mac OS kernal panic caused by the external hard drive.
+This repository helps solve the Mac OS kernal panic caused by the external hard drive and data recovery.
 
 A few days ago my LaCie portable hard drive was somehow corrupted. Once I plugged it in, my MacBook froze and automatically restarted. The most scary thing was that it kept restarting until I unplugged the hard drive. It meant that I couldn't use Disk Utility to first aid it.
 Normally the corrupted drive just has problem mounting itself and you can still use Disk Utility to fix it. But this time, I was prepared to lose all my precious data.
