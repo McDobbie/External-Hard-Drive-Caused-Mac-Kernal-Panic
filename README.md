@@ -8,7 +8,8 @@ After checking the kernal panic report, it said:
 ```
 Process name corresponding to current thread: mount_hfs
 ```
-However, I came up with a solution with fragmented information on the Internet.
+It suggested that the kernal panic happend just when Mac was trying to mount the hard drive.
+Thus, I came up with the following solution.
 
 1. To prevent Mac keeping retarting, download [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) to block automatic mounting. 
 2. Open Disk Arbitrator and switch it into Read-only mode.
